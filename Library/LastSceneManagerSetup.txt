@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Materials/scenes/level 2.unity
+- path: Assets/Materials/scenes/congrations you beat the game.unity
   isLoaded: 1
   isActive: 1
