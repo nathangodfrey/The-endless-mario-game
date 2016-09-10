@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Materials/scenes/congrations you beat the game.unity
+- path: Assets/Materials/scenes/Scene1.unity
   isLoaded: 1
   isActive: 1
